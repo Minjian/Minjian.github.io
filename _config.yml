@@ -1,8 +1,12 @@
 
 title: Minjian Liu
 url: 'https://github.com/Minjian/'
-baseurl: '/Minjian.github.io' #change it according to your repository name
 
+# With the new Pages setting, we don't need baseurl
+# anymore as right now it would treat my repo as root.
+# change it according to your repository name
+# disabling since we are using a custom domain.
+#baseurl: '/Minjian.github.io'
 
 # Enable one of these styles by removing #
 #style: styles-2
